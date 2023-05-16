@@ -86,7 +86,7 @@ nums2 = [3, 4]
 
 具体实现代码如下：
 
-```
+```javascript
 function findMedianSortedArrays(nums1, nums2) {
   const len1 = nums1.length, len2 = nums2.length;
   const len = len1 + len2;

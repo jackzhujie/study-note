@@ -111,7 +111,7 @@ CSS预处理器的优：
 
 答：在 HTML 中创建链接需要使用 a 标签。例如，要创建一个链接到 Google 的文本，可以使用以下代码：
 
-```
+```javascript
 <a href="https://www.google.com">Go to Google</a>
 ```
 
@@ -123,7 +123,7 @@ CSS预处理器的优：
 
 例如，下面的代码演示了如何使用闭包创建一个计数器函数：
 
-```
+```javascript
 function makeCounter() {
   let count = 0;
   return function() {
