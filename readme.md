@@ -24,12 +24,16 @@
 [你知道reduce函数的用法吗？](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&amp;mid=2247483855&amp;idx=1&amp;sn=9e83f4e734dbe4af13efd255a9dbd1b5&amp;chksm=ea2752c5dd50dbd395346fc0cf87dfbbc295be584a493195704422dc44ff46abd490524a9451&token=1040232572&lang=zh_CN#rd)  
 更多好文可以关注公众号，获取实时推送，也可以`star`该仓库，不定时更新。
 
-### 面试题
+### 面试题(每期三道题，持续更新)
 [62期](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247485001&idx=1&sn=6aeac07833cfd8305d43723e37a860c5&chksm=ea275543dd50dc55f16fa8ff9ec2c95cf02de33a1c7bf60c976f136e82bdddf9523b76a6a2a6&token=1040232572&lang=zh_CN#rd)
 1. 实现一个函数柯里化的工具函数，并讲解柯里化的用途及场景
 2. ts中枚举的用途及用法
 3. vue3中的hook解决了vue2中mixin的什么问题
 
+[62期]()
+1. vue3中什么是hook，如何自己写一个
+2. :deep伪类是什么？
+3. 前端自适应方案有哪些
 ### 最后
 在这个卷之又卷的IT圈子，只有不断的给自己充电，才能利于不败之地，加油！！！
 下面是我的公众号，每天的刷题记录会第一时间推送给你，欢迎大家关注。
