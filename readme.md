@@ -23,7 +23,7 @@
 [vite+vue3+setup+ts开发一个tree组件](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&amp;mid=2247484151&amp;idx=1&amp;sn=c45dce09a9924a882b8b57f3074ae419&amp;chksm=ea2751fddd50d8ebdc4918a41b70b65a0afd7df07f4699cb33c73ef192e3b45d88664e143943&token=1040232572&lang=zh_CN#rd)  
 [你知道reduce函数的用法吗？](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&amp;mid=2247483855&amp;idx=1&amp;sn=9e83f4e734dbe4af13efd255a9dbd1b5&amp;chksm=ea2752c5dd50dbd395346fc0cf87dfbbc295be584a493195704422dc44ff46abd490524a9451&token=1040232572&lang=zh_CN#rd)  
 #### 原创文章合集
-[所有文章合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NjQ3Njc3Mw==&action=getalbum&album_id=2970906814064410627#wechat_redirect)
+[原创文章合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NjQ3Njc3Mw==&action=getalbum&album_id=1354369828882169856#wechat_redirect)
 
 ### 面试题(每期三道题，持续更新)
 [面试题62期](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247485001&idx=1&sn=6aeac07833cfd8305d43723e37a860c5&chksm=ea275543dd50dc55f16fa8ff9ec2c95cf02de33a1c7bf60c976f136e82bdddf9523b76a6a2a6&token=1040232572&lang=zh_CN#rd)
