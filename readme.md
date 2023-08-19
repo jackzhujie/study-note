@@ -22,7 +22,7 @@
 [2023还不知道原子化样式你就out了](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&amp;mid=2247484327&amp;idx=1&amp;sn=f2b0586e5978bb66b1c0432932b6ea7e&amp;chksm=ea2750addd50d9bb2e7ebabe0d2b557caf79eef8d974f8accce4f191c1a883a289fe3edca74e&token=1040232572&lang=zh_CN#rd)  
 [vite+vue3+setup+ts开发一个tree组件](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&amp;mid=2247484151&amp;idx=1&amp;sn=c45dce09a9924a882b8b57f3074ae419&amp;chksm=ea2751fddd50d8ebdc4918a41b70b65a0afd7df07f4699cb33c73ef192e3b45d88664e143943&token=1040232572&lang=zh_CN#rd)  
 [你知道reduce函数的用法吗？](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&amp;mid=2247483855&amp;idx=1&amp;sn=9e83f4e734dbe4af13efd255a9dbd1b5&amp;chksm=ea2752c5dd50dbd395346fc0cf87dfbbc295be584a493195704422dc44ff46abd490524a9451&token=1040232572&lang=zh_CN#rd)  
-更多好文可以关注公众号，获取实时推送，也可以`star`该仓库，不定时更新。  
+#### 原创文章合集
 [所有文章合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NjQ3Njc3Mw==&action=getalbum&album_id=2970906814064410627#wechat_redirect)
 
 ### 面试题(每期三道题，持续更新)
@@ -60,6 +60,7 @@
 [所有算法合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NjQ3Njc3Mw==&action=getalbum&album_id=2927334640070475777#wechat_redirect)
 ### 最后
 在这个卷之又卷的IT圈子，只有不断的给自己充电，才能利于不败之地，加油！！！
-下面是我的公众号**程序员每日三问**，每天的刷题记录会第一时间推送给你，欢迎大家关注。
+下面是我的公众号：  **程序员每日三问** 
+每天的刷题记录会第一时间推送给你，欢迎大家关注。
 ![公众号前端干货分享](./assist/前端干货分享.jpg "程序员每日三问")
 
