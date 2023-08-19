@@ -22,20 +22,44 @@
 [2023还不知道原子化样式你就out了](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&amp;mid=2247484327&amp;idx=1&amp;sn=f2b0586e5978bb66b1c0432932b6ea7e&amp;chksm=ea2750addd50d9bb2e7ebabe0d2b557caf79eef8d974f8accce4f191c1a883a289fe3edca74e&token=1040232572&lang=zh_CN#rd)  
 [vite+vue3+setup+ts开发一个tree组件](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&amp;mid=2247484151&amp;idx=1&amp;sn=c45dce09a9924a882b8b57f3074ae419&amp;chksm=ea2751fddd50d8ebdc4918a41b70b65a0afd7df07f4699cb33c73ef192e3b45d88664e143943&token=1040232572&lang=zh_CN#rd)  
 [你知道reduce函数的用法吗？](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&amp;mid=2247483855&amp;idx=1&amp;sn=9e83f4e734dbe4af13efd255a9dbd1b5&amp;chksm=ea2752c5dd50dbd395346fc0cf87dfbbc295be584a493195704422dc44ff46abd490524a9451&token=1040232572&lang=zh_CN#rd)  
-更多好文可以关注公众号，获取实时推送，也可以`star`该仓库，不定时更新。
+更多好文可以关注公众号，获取实时推送，也可以`star`该仓库，不定时更新。  
+[所有文章合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NjQ3Njc3Mw==&action=getalbum&album_id=2970906814064410627#wechat_redirect)
 
 ### 面试题(每期三道题，持续更新)
-[62期](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247485001&idx=1&sn=6aeac07833cfd8305d43723e37a860c5&chksm=ea275543dd50dc55f16fa8ff9ec2c95cf02de33a1c7bf60c976f136e82bdddf9523b76a6a2a6&token=1040232572&lang=zh_CN#rd)
+[面试题62期](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247485001&idx=1&sn=6aeac07833cfd8305d43723e37a860c5&chksm=ea275543dd50dc55f16fa8ff9ec2c95cf02de33a1c7bf60c976f136e82bdddf9523b76a6a2a6&token=1040232572&lang=zh_CN#rd)
 1. 实现一个函数柯里化的工具函数，并讲解柯里化的用途及场景
 2. ts中枚举的用途及用法
 3. vue3中的hook解决了vue2中mixin的什么问题
 
-[62期]()
+[面试题61期](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247484979&idx=1&sn=297cbdef21b9270d8c177bf6ce7f8276&chksm=ea275539dd50dc2ffaba68a4cd608e9483ad7a9a1e52dfb5e3a74f08263143735b5649834886&token=136585900&lang=zh_CN#rd)
 1. vue3中什么是hook，如何自己写一个
 2. :deep伪类是什么？
 3. 前端自适应方案有哪些
+
+[面试题60期](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247484969&idx=1&sn=f60d34b3cf684153808bfeb105a0a519&chksm=ea275523dd50dc35bd5c54656c3f5b9a8d9baeafc5d3fcf309bd5b3747edb9ec13f1588c2128&token=136585900&lang=zh_CN#rd)
+1. 什么是图片预加载，如何实现？
+2. 什么是懒加载，如何实现？
+3. 请手写一个promise规范？
+
+[面试题58期](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247485046&idx=1&sn=fc37c1b8e3d799decdb0cb767d27158a&chksm=ea27557cdd50dc6aa96d01b4166dfea2bd354f66d62b43b202625ca074106006dc7eb28230a5&token=136585900&lang=zh_CN#rd)
+1. 你认为前端架构师应该具备哪些能力
+2. Object.is是什么，主要是为了解决什么问题
+3. 如何使用sass写一段循环，并生成一段样式  
+
+#### 面试题合集
+[所有面试题合集](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247485046&idx=1&sn=fc37c1b8e3d799decdb0cb767d27158a&chksm=ea27557cdd50dc6aa96d01b4166dfea2bd354f66d62b43b202625ca074106006dc7eb28230a5&token=136585900&lang=zh_CN#rd)
+
+### 算法(60+)
+[算法:有效的括号](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247485011&idx=2&sn=5e80e57467450be9533c47aca8551c02&chksm=ea275559dd50dc4f4e856aca49a2656168ea239b288bbefe8e27c2640fe10f54cc17d3b580da&token=136585900&lang=zh_CN#rd)  
+[算法:整数转罗马数字](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247485001&idx=2&sn=0ef937a9628749bec8788c0712f0a17a&chksm=ea275543dd50dc5521b36730c35f8b58f2cab90d4952da81fc725f42bef59799734f8d63399e&token=136585900&lang=zh_CN#rd)  
+[算法:盛最多水的容器](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247484988&idx=2&sn=1e84631c45752b4610ef93c3ca933b45&chksm=ea275536dd50dc20ef70bd43f9cfbb5bc1d846539462a5cf7bfb3b7ec39709acc3b2b280575a&token=136585900&lang=zh_CN#rd)  
+[算法:回文数算法](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247484979&idx=2&sn=1ce87cb27f903b2fca5646ff74b58dc5&chksm=ea275539dd50dc2fe9ec80fa05181ed896a1cea17067293f517f8fe57ce8763349a53d9b577d&token=136585900&lang=zh_CN#rd)  
+[算法:字符串转整数](https://mp.weixin.qq.com/s?__biz=MzI1NjQ3Njc3Mw==&mid=2247484969&idx=2&sn=0c8eb8fecd472a8d48a05ac8b3de74c5&chksm=ea275523dd50dc35a56b3f65e896035e593a505a36d5d54c8eac204e81cad4601779013c4512&token=136585900&lang=zh_CN#rd)   
+
+#### 算法合集
+[所有算法合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI1NjQ3Njc3Mw==&action=getalbum&album_id=2927334640070475777#wechat_redirect)
 ### 最后
 在这个卷之又卷的IT圈子，只有不断的给自己充电，才能利于不败之地，加油！！！
-下面是我的公众号，每天的刷题记录会第一时间推送给你，欢迎大家关注。
+下面是我的公众号**程序员每日三问**，每天的刷题记录会第一时间推送给你，欢迎大家关注。
 ![公众号前端干货分享](./assist/前端干货分享.jpg "程序员每日三问")
 
